@@ -5,14 +5,25 @@ Present time Technologies are much important in each and every person's life. Th
 
 This system is used in the industrial big freezers where temperature has to be maintained within boundaries.
 
+##Things used in this project
+Hardware components:
+Bolt IoT Bolt WiFi Module ×	1	
+Temperature Sensor ×	1	
+Buzzer ×	1		
+LED (generic) ×	1	
+Jumper wires (generic) ×	1	
+USB-A to Micro-USB Cable ×	1	
+Solderless Breadboard Half Size ×	1	
 
-Hardware Requirement:
+Software apps and online services:
+Bolt IoT Android App
+Bolt IoT Bolt Cloud
+Amazon Web Services AWS EC2
+Snappy Ubuntu Core
+Twilio SMS Messaging API
+Twitter API
+Tweepy: Twitter for Python!
 
-Bolt IoT Wi Fi Module
-LM35 Temperature Sensor
-Buzzer
-Male to Female jumperwires
-USB cable
 
 CONNECTIONS:
 
